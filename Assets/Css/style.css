@@ -1,0 +1,21 @@
+.header{
+
+    height: 400px;
+    background: url("../Images/bg.jpg") no-repeat center;
+    background-size: cover;
+    margin-bottom: 0px;
+
+    color: #d0e9c6;
+    text-align: center;
+}
+
+.main{
+    background-color: rgba(200, 195, 107, 0.4);
+}
+.add__article .content{
+    height: auto;
+}
+footer{
+    background-color: #000;
+
+}
